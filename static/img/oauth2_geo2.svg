@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="16cm" height="16cm" viewBox="69 9 303 302" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Background">
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="70" y="10" width="300" height="70" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="79" y="40.8812">
+        <tspan x="79" y="40.8812">Authorization</tspan>
+        <tspan x="79" y="56.8812">Server</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="70" y="250" width="80.75" height="60" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="110.375" y="275.881">
+        <tspan x="110.375" y="275.881">Resource</tspan>
+        <tspan x="110.375" y="291.881">Server</tspan>
+      </text>
+    </g>
+    <g>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 192.026 146.817 C 183.846,146.597 167.982,151.217 170.213,161.116 C 172.444,171.016 183.102,173.215 187.564,170.356 C 192.026,167.496 180.624,184.215 202.437,188.614 C 224.249,193.014 235.404,185.974 232.181,180.915 C 228.959,175.855 251.268,192.794 261.679,183.115 C 272.089,173.435 251.02,164.196 255.482,165.516 C 259.944,166.836 273.577,165.076 269.115,148.577 C 264.653,132.078 224.497,144.837 228.959,142.417 C 233.421,139.998 222.266,127.898 208.386,130.318 C 194.505,132.738 193.52,137.129 192.033,146.809 L 192.026,146.817z"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="223.61" y="165.485">
+        <tspan x="223.61" y="165.485">Cache?</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="179.95" y="250" width="80.75" height="60" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="220.325" y="275.881">
+        <tspan x="220.325" y="275.881">Resource</tspan>
+        <tspan x="220.325" y="291.881">Server</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="289.95" y="250" width="80.75" height="60" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="330.325" y="275.881">
+        <tspan x="330.325" y="275.881">Resource</tspan>
+        <tspan x="330.325" y="291.881">Server</tspan>
+      </text>
+    </g>
+    <g>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #0000ff" fill-rule="evenodd" d="M 300 28.3333 C 310,22.0833 315,20 325,20 C 335,20 340,22.0833 350,28.3333 L 350,61.6667 C 340,67.9167 335,70 325,70 C 315,70 310,67.9167 300,61.6667 L 300,28.3333z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #0000ff" d="M 300 28.3333 C 310,34.5833 315,36.6667 325,36.6667 C 335,36.6667 340,34.5833 350,28.3333"/>
+      <text font-size="7.49571" style="fill: #0000ff; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="325" y="46.7545">
+        <tspan x="325" y="46.7545">Location</tspan>
+        <tspan x="325" y="56.1242">Data</tspan>
+      </text>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="220.606" y1="130.759" x2="220.083" y2="69.7357"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="220.019,62.236 225.105,72.1928 220.083,69.7357 215.105,72.2784 "/>
+    </g>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="110.375,248.992 110.375,219.802 220.859,219.802 220.859,200.347 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="220.859,192.847 225.859,202.847 220.859,200.347 215.859,202.847 "/>
+    </g>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="330.325,248.992 330.325,219.802 220.859,219.802 220.859,200.347 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="220.859,192.847 225.859,202.847 220.859,200.347 215.859,202.847 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="220.463" y1="248.994" x2="220.681" y2="200.133"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="220.714,192.634 225.67,202.656 220.681,200.133 215.67,202.611 "/>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #0000ff" x="190" y="30" width="60" height="30" rx="0" ry="0"/>
+      <text font-size="7.49571" style="fill: #0000ff; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="220" y="42.5879">
+        <tspan x="220" y="42.5879">Risk Analysis</tspan>
+        <tspan x="220" y="51.9577">Engine</tspan>
+      </text>
+    </g>
+    <text font-size="12.7998" style="fill: #0000ff; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="290" y="150">
+      <tspan x="290" y="150">IP/Location</tspan>
+      <tspan x="290" y="166">Query</tspan>
+    </text>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="256.736" y1="45" x2="292.3" y2="45"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="252.236,45 258.236,42 256.736,45 258.236,48 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="296.8,45 290.8,48 292.3,45 290.8,42 "/>
+    </g>
+  </g>
+</svg>

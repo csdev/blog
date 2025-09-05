@@ -1,0 +1,7 @@
+/assets/img/:filename /img/:filename 301
+/topics /tags 301
+
+/docker/2023/01/18/docker-devcontainers.html /2023/01/18/docker-devcontainers 301
+/python/2023/01/20/python-annotations.html /2023/01/20/python-annotations 301
+/docker/2023/01/24/docker-alpine.html /2023/01/24/docker-alpine 301
+/security/2023/04/03/security-oauth2-tokens.html /2023/04/03/security-oauth2-tokens 301
