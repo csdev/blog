@@ -120,8 +120,11 @@ const config = {
         darkTheme: prismThemes.dracula,
         additionalLanguages: [
           // https://docusaurus.io/docs/markdown-features/code-blocks#supported-languages
+          'bash',
           'docker',
+          'groovy',
           'ruby',
+          'sql',
         ],
       },
     }),
