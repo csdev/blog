@@ -1,4 +1,6 @@
 docker:
 python:
 security:
+sre:
+  label: SRE  # overrides incorrect default capitalization of tag name
 other:
